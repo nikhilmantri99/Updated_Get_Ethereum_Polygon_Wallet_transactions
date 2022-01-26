@@ -1,0 +1,17 @@
+{
+  "name": "get_transactions_eth_polygon",
+  "version": "1.0.0",
+  "description": "get transactions of eth and polygon wallets",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.1063.0",
+    "moralis": "^1.1.0",
+    "node-fetch": "^3.2.0"
+  }
+}
